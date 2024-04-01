@@ -6,5 +6,7 @@ Informe o tempo em que deve mudar a cor do temporizador, isso serve de alerta qu
 Atalhos
 
 **F** - Coloca e retira do full screen;
+
 **Barra de espaço** - Inicia e pausa o temporizador;
+
 **R** - Reinicia o temporizador para o valor padrão informado no primeiro input;
