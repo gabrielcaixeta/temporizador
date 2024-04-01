@@ -1,0 +1,28 @@
+input{
+    font-size: large;
+}
+
+#temporizador{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    font-size: 26rem;
+    font-family: monospace;
+}
+
+.hide{
+    display:  none !important;
+}
+
+.alert{
+    color: burlywood;
+}
+
+.danger{
+    color: crimson;
+}
